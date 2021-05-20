@@ -12,7 +12,7 @@ int main()
   
         // display 5 random numbers per row
         if (count % 5 == 0)
-            std::cout << "\n"; //fuk
+            std::cout << "\n"; //fukh
      }
   return 0;
 };
