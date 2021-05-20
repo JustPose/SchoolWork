@@ -2,3 +2,4 @@
 #include <cstdlib> 
 #include <ctime> 
 
+mani()
