@@ -3,6 +3,7 @@
 #include <ctime> 
 #include <string>
 main(){
+    //okay
     string vardai = 'senelis', 'mama', 'tetis', 'mociute';
     string jungtukai = 'ir', 'su', 'kartu';
     string budvardziai = 'grazus', 'protingas', 'greitas';
