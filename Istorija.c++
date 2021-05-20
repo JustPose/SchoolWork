@@ -1,2 +1,4 @@
-jn
-kj
+#include <iostream>
+#include <cstdlib> 
+#include <ctime> 
+
