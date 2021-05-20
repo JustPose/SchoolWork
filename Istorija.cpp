@@ -7,14 +7,10 @@ using std::cin;
 using std::cout;
 using std::string;
 
-int informacija()
-{
-
-    string vardai[4] = {'senelis', 'mama', 'tetis', 'mociute'};
-    string jungtukai[3] = {'ir', 'su', 'kartu'};
-    string budvardziai[3] = {'grazus', 'protingas', 'greitas'};
-    string draugai[3] = {'draugu', 'dukra', 'sunus'};
-}
+string vardai[4] = {'senelis', 'mama', 'tetis', 'mociute'};
+string jungtukai[3] = {'ir', 'su', 'kartu'};
+string budvardziai[3] = {'grazus', 'protingas', 'greitas'};
+string draugai[3] = {'draugu', 'dukra', 'sunus'};
 
 int main()
 {
